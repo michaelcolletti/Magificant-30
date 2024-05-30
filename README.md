@@ -5,12 +5,16 @@
 - A set-list generated from a prompt is given. 
 - Unfold the *twisties* to reveal *cool metadata* for each song. 
 
-### Further Analysis 
+## Design Features
+- To create a copy of the setlist, do the following:
 
-- Set generation automated based upon participant demographics and targeted interest. Use [GPTScript](https://github.com/gptscript-ai/gptscript) and tune the checked-out prompt.
-- SA (sentiment analysis) in social media for selection of original material for touring artists.
-
-
+```sh
+git clone https://github.com/michaelcolletti/Magificant30
+```
+- Prereqs: The git package can be found here: https://github.com/git-guides/install-git
+  
+*Note: A similar process can be done to provide resiliency to critical systems using ascii configuration data buried in proprietary/formated envs. Recovery using git is just a git clone away, perhaps even easier through a container but 
+   
 <details>
 <summary>Blue in Green</summary>
 
