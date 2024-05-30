@@ -13,7 +13,7 @@ git clone https://github.com/michaelcolletti/Magificant30
 ```
 - Prereqs: The git package can be found here: https://github.com/git-guides/install-git
   
-*Note: A similar process can be done to provide resiliency to critical systems using ascii configuration data buried in proprietary/formated envs. Recovery using git is just a git clone away, perhaps even easier through a container but 
+*Note: A similar process can be done to provide resiliency to critical systems using ascii configuration data buried in proprietary/formatted envs. Recovery on the road using git is just a git clone away, perhaps even easier through a container or package tool. This uses the power of a free hosted infrastructure to provide resiliency. 
    
 <details>
 <summary>Blue in Green</summary>
