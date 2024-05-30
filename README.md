@@ -1,10 +1,14 @@
-## SetlistIA: A Concept For Version Controlling Setlists
 
-- The Magnificent 30 Repo
-- Test Cases and Uses for Configuration and Metadata
-- Using Jupyter for Musician Workflows
+## The Magnificent 30
 
-# The Magnificent 30
+- Below is a test selection of songs for a jazz standards brunch gig. 
+- A set-list generated from a prompt is given. 
+- Unfold the *twisties* to reveal *cool metadata* for each song. 
+
+### Further Analysis 
+
+- Set generation automated based upon participant demographics and targeted interest. Use [GPTScript](https://github.com/gptscript-ai/gptscript) and tune the checked-out prompt.
+- SA (sentiment analysis) in social media for selection of original material for touring artists.
 
 
 <details>
