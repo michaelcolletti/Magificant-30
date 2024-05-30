@@ -1,6 +1,6 @@
 ## SetlistIA: A Concept For Version Controlling Setlists
 
-- The Magificant 30 Repo
+- The Magnificent 30 Repo
 - Test Cases and Uses for Configuration and Metadata
 - Using Jupyter for Musician Workflows
 
@@ -330,9 +330,10 @@
 
 </details>
 
+<details>
 <summary>Tell Me a Bedtime Story</summary>
 
-<details>
+
 | Attribute      | Details                |
 |----------------|------------------------|
 | Tempo          | Medium                 |
