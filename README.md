@@ -2,7 +2,8 @@
 ## The Magnificent 30
 
 - Below is a test selection of songs for a jazz standards brunch gig. 
-- A set-list generated from a prompt is given. 
+- An alphabetical set-list generated.  
+- Coming Soon (a prompt for all occasions taking parameters or UI)
 - Unfold the *twisties* to reveal *cool metadata* for each song. 
 
 ## Design Features
