@@ -1,0 +1,28 @@
+site_name: The Magnificent 30
+site_author: Michael Colletti 
+copyright: Creative Possibilities Inc. 2024
+remote_name: 
+site_description: The Magnificent 30 Jazz Tunes for Brunch 
+repo_url: https://github.com/michaelcolletti/Magificant30
+repo_name: Magificant30
+edit_uri: '?query=/docs'
+
+theme:
+    name: readthedocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - rust
+        - json
+        - python
+    locale: en
+#    custom_dir: custom
+    nav_style: dark
+#    color_scheme: 
+#    static_templates:
+#        - sitemap.html
+    include_sidebar: true
+nav:
+  - Home: README.md
+#  - Docs: docs.md
+#  - Project: project.md
