@@ -3,8 +3,8 @@ site_author: Michael Colletti
 copyright: Creative Possibilities Inc. 2024
 remote_name: 
 site_description: The Magnificent 30 Jazz Tunes for Brunch 
-repo_url: https://github.com/michaelcolletti/Magificant30
-repo_name: Magificant30
+repo_url: https://github.com/michaelcolletti/Magificant-30
+repo_name: Magificant-30
 edit_uri: '?query=/docs'
 
 theme:
